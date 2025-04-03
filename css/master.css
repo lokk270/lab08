@@ -17,13 +17,14 @@
   color: black;
   font-weight: 900;
   letter-spacing: 2px;  
+  color: #00754a !important;
 }
 .margin-test{
   margin: 30px;
 }
 #banner{
   width:100%;
-  /* margin-bottom: 10%; */
+  margin-bottom: 10%;
 }
 .inner-image{
   width:100%;
