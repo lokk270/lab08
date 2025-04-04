@@ -63,7 +63,7 @@
   margin:0;
   background-image: url("../images/tour-bg.jpg");
   background-size: cover;
-  color:white;
+  color:rgb(0, 0, 0);
 }
 #activities h3{
   text-align: center;
